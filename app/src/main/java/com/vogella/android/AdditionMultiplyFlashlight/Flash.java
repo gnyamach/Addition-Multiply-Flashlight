@@ -1,4 +1,4 @@
-package com.vogella.android.flashbeepshake;
+package com.vogella.android.AdditionMultiplyFlashlight;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -18,8 +18,6 @@ import android.widget.ImageButton;
 
 import butterknife.ButterKnife;
 import butterknife.OnClick;
-
-import static android.content.Context.CAMERA_SERVICE;
 
 
 /**

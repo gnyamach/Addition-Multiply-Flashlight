@@ -1,8 +1,6 @@
-package com.vogella.android.flashbeepshake;
+package com.vogella.android.AdditionMultiplyFlashlight;
 
 import android.content.Context;
-import android.media.AudioManager;
-import android.media.ToneGenerator;
 import android.os.Bundle;
 import android.app.Fragment;
 import android.os.Vibrator;

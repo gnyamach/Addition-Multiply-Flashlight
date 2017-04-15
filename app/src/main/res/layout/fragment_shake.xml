@@ -4,7 +4,7 @@ xmlns:tools="http://schemas.android.com/tools"
 android:layout_width="match_parent"
 android:layout_height="match_parent"
 android:background="#279727"
-tools:context="com.vogella.android.flashbeepshake.Shake">
+tools:context="com.vogella.android.AdditionMultiplyFlashlight.Shake">
 
 <TextView
     android:textAlignment="center"

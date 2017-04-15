@@ -1,4 +1,4 @@
-package com.vogella.android.flashbeepshake;
+package com.vogella.android.AdditionMultiplyFlashlight;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.vogella.android.flashbeepshake", appContext.getPackageName());
+        assertEquals("com.vogella.android.AdditionMultiplyFlashlight", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.vogella.android.flashbeepshake;
+package com.vogella.android.AdditionMultiplyFlashlight;
 
 import org.junit.Test;
 
